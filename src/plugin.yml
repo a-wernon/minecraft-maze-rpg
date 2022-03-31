@@ -1,0 +1,28 @@
+name: fawetest
+version: 0.0.1
+depend: [WorldGuard]
+author: Wernon
+main:  artemwernon.fawe_t_plugin.fawe_t_plugin
+api-version: 1.15
+commands:
+  bldreg:
+    description: no
+    usage: /<command>
+  quarbuild:
+    description: no
+    usage: /<command>
+  questbasegen:
+    usage: nothanks
+    description: gh
+  questgen:
+    usage: nothanks
+    description: gh
+  hlep:
+    usage: nothanks
+    description: gh
+  shop:
+    usage: nothanks
+    description: gh
+  cast:
+    usage: nothanks
+    description: gh
